@@ -49,12 +49,40 @@ table {
 h1 {
   font-family: 'PT Sans Caption', sans-serif;
 }
+h2 {
+  font-family: 'PT Sans Caption', sans-serif;
+}
+h3 {
+  font-family: 'PT Sans Caption', sans-serif;
+}
 p {
   font-family: 'PT Sans', sans-serif;
+  color: gray;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 66px auto 20px 0px;
+}
+h2 {
+  font-size: 32px:
+  font-weight: bold;
+}
+h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+p {
+  font-size: 27px;
+  color: gray;
+  margin: 10px 20px 30px 40px;
 }
 body {
   background-image: url(dc-online-media-mockup.jpg);
   background-size: 800px 20624px;
   background-position: top center;
   background-repeat: no-repeat;
+  width: 700px;
+  margin: 0 auto;
+  margin: 40px auto 20px;
 }
